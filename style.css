@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#banner {
+    background: url(/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.banner-content {
+    padding: 0px 230px;
+    width: 525px;
+}
+
+.banner-content h1 {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    padding-top: 130px;
+    width: 525px;
+}
+
+.banner-content p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 525px;
+    margin-top: 24px;
+    margin-bottom: 30px;
+
+
+}
+
+.btn {
+    padding: 20px 25px;
+    background-color: #F15B22;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 165px;
+}
+
+/* ===previous css start==== */
+#previous {
+    margin-top: 100px;
+}
+
+.previous-item {
+    margin-top: 130px;
+    margin: 130px 230px 0 230px;
+    display: flex;
+    align-items: center;
+
+}
+
+.previous-left {
+    margin-right: 85px;
+}
+
+.previous-right {}
+
+.previous-right h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    width: 290px;
+    margin-bottom: 24px;
+}
+
+.previous-right p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 416px;
+    margin-bottom: 18px;
+}
+
+.previous-right li {
+    margin-bottom: 15px;
+}
+
+/* ==my plan css start== */
+#plan {
+    margin: 0px 230px 0px 230px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+my-plan {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.plan-item {
+    display: flex;
+    margin-top: 55px;
+    text-align: center;
+}
+
+.plan1 h2 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+.plan2 h2 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+.plan3 h2 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+.plan4 h2 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+
+}
+
+.plan1 {
+    margin-right: 86px;
+    text-align: center;
+
+
+}
+
+.plan2 {
+    margin-right: 86px;
+    text-align: center;
+
+
+}
+
+.plan3 {
+    margin-right: 86px;
+    text-align: center;
+
+
+}
+
+.plan4 {
+    text-align: center;
+
+}
+
+/* ===call css start==== */
+#call {
+    margin: 130px;
+    background: url(./images/watch.png), url(./images/gradient1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+.call-btn {
+    padding: 20px 25px;
+    background-color: #FFF;
+    border: none;
+    border-radius: 5px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 24px;
+    margin-left: 64px;
+    margin-bottom: 65px;
+}
+
+.call-item {
+    margin-bottom: 80px;
+}
+
+.call-item h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    width: 459px;
+    margin-left: 64px;
+    padding-top: 60px;
+}
+
+/* =======footer css start========== */
+#footer {
+    background-color: #151414;
+    width: 100%;
+
+}
+
+.footer-item {
+    display: flex;
+   
+}
+
+.footer-left {
+    margin-top: 130px;
+    margin-bottom: 130px;
+    padding-right: 130px;
+    padding-left: 130px;
+}
+
+.footer-left h2 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.footer-left p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+    margin-bottom: 24px;
+    width: 496px;
+}
+
+.footer-left li {
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+    margin-bottom: 16px;
+}
+
+.icons {}
+
+.icons img {
+    margin-right: 18px;
+}
+
+.footer-right {
+    margin-left: 270px;
+    margin-top: 130px;
+}
+
+.footer-right h2 {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+input {
+    padding: 21px;
+    border: 1px solid #fff;
+    background-color: #151414;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.sub {
+    padding: 20px 25px;
+    background-color: #FFF;
+    border: none;
+    border-radius: 5px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 16px;
+}
