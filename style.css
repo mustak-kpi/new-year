@@ -131,6 +131,30 @@ my-plan {
     line-height: 35px;
 
 }
+.plan1 p{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    padding-top: 16px;
+}
+.plan2 p{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+padding-top: 16px;
+}
+.plan3 p{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+padding-top: 16px;
+}
+.plan4 p{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+padding-top: 16px;
+}
 
 .plan1 {
     margin-right: 86px;
